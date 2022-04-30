@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align='center' >
+  <h1>Don't pass any inspiration.</h1>
+</div>
+
+<div align='center' >
+  <h4>An amateur independent studio</h4>
+</div>
+
 
 <!--
 
