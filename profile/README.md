@@ -11,11 +11,11 @@
 
 <div align='center' >
   <a href="https://nawb.deskbtm.com">
-    <img src="../nawb.png" width="100"/>
+    <img src="./nawb.png" width="100"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://letscollab.deskbtm.com">
-   <img src="../letscollab.svg" width="150" height="100"/>
+   <img src="./letscollab.svg" width="150" height="100"/>
   </a>
 </div>
 
