@@ -3,7 +3,7 @@
 </div>
 
 <div align='center' >
-  <h4>An amateur independent studio</h4>
+  <h4>An amateur indie studio</h4>
 </div>
 
 <br />
