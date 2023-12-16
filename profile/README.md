@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/nawbc/assets/assets/45007226/c423548f-8b4d-4c84-a1af-5686317ecc49">
+<img width="100%" src="https://github.com/nawbc/assets/assets/45007226/08c0787a-9584-40a1-b527-0267b0b5a5a3">
 <div align='center' >
   <h1>No inspiration is spared.</h1>
 </div>
